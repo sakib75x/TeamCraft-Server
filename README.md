@@ -1,1 +1,1 @@
-<h1>BABEL-Forge Server</h1>
+<h1>TEamCraft Server</h1>
